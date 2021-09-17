@@ -15,7 +15,7 @@ Podane są spodziewane dane wyjścia w plikach 1.out i 2.out.
 
 ### Przykład nie działającego testu
 ```
-./algo_tester.py greeter.py 2.in 2.out
+./algo_tester.py greeter.py 1.in 1.out
 
 ```
 
